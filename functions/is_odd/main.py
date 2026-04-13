@@ -1,7 +1,7 @@
 
 
 def  main():
-    for i in range(10):
+    for i in range(20):
         if  is_odd(i):
             print("ODD")
         else:

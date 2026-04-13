@@ -9,7 +9,7 @@ def  first_element(numbers):
 
 
 def main():
-    list1=[1,2,3,45,"hassan"]
+    list1=[3,2,3,45,"hassan"]
     if list1!= "":
         result=first_element(list1)
         print(result)
