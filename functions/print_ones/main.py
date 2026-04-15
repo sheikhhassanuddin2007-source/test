@@ -2,7 +2,7 @@
 
 
 def print_ones(num):
-    print("The ones print is",num%80)
+    print("The ones print is",num %80)
 
 
 def main():
